@@ -1,0 +1,23 @@
+package Session01;
+
+public class Divisle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		//WAP to check number is divide by 7, 
+		
+		
+		    Scanner sc= new Scanner(System.in);
+		    System.out.println("enter the value");
+		    int a= sc.nextInt();
+		    
+		    
+		    
+		    System.out.println('a&&7==0');
+		    
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package simpleprogram;
+
+public class Conditionchecktruefaalse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

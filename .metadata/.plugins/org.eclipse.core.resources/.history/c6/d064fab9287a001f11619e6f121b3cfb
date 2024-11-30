@@ -1,0 +1,19 @@
+package simpleprogram;
+
+public class AddNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method 
+          
+	  //WAP to user is able to add number
+		
+		int a=10;
+		int b=20;
+		
+		System.out.println("Adding two numbers :"+ (a+b));
+		
+		
+
+	}
+
+}

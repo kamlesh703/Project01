@@ -1,0 +1,36 @@
+2024-11-16 13:02:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\abc\eclipse-workspace\Myprojectnew\testng.xml
+
+2024-11-16 13:04:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\abc\eclipse-workspace\Myprojectnew\testng.xml
+
+2024-11-16 13:06:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\abc\eclipse-workspace\Myprojectnew\testng.xml
+
+2024-11-16 13:06:37 INFO  TC001_AccountRegistrationTest:15 - ** Starting TC001_AccountRegistrationTest  ***
+2024-11-16 13:06:38 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-16 13:06:53 ERROR TC001_AccountRegistrationTest:51 - Test failed: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4caa66c633c684d5b901045f3cf78b86, clickElement {id=f.A7058D22C2ECBB28451C24E362ABBC52.d.CFBD5958EE891401169FC80C019EA43B.e.5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\PROGRA~1\KMSpico\temp\sc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50405}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50405/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4caa66c633c684d5b901045f3cf78b86)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 4caa66c633c684d5b901045f3cf78b86
+2024-11-16 13:06:53 INFO  TC001_AccountRegistrationTest:56 - ** Finished TC001_AccountRegistrationTest **
+2024-11-16 13:07:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\abc\eclipse-workspace\Myprojectnew\testng.xml
+
+2024-11-16 13:07:18 INFO  TC001_AccountRegistrationTest:15 - ** Starting TC001_AccountRegistrationTest  ***
+2024-11-16 13:07:19 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-11-16 13:07:35 ERROR TC001_AccountRegistrationTest:51 - Test failed: element not interactable
+  (Session info: chrome=130.0.6723.117)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [84a0850e9e0dd0a3bbf6a5075b7e8636, clickElement {id=f.CDE72E4FC2112AE40BC079A0CFB32749.d.5BA7AFF4007D1BD3A2CCE241F955283C.e.4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.117, chrome: {chromedriverVersion: 130.0.6723.116 (6ac35f94ae3..., userDataDir: C:\PROGRA~1\KMSpico\temp\sc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50428}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50428/devtoo..., se:cdpVersion: 130.0.6723.117, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (84a0850e9e0dd0a3bbf6a5075b7e8636)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 84a0850e9e0dd0a3bbf6a5075b7e8636
+2024-11-16 13:07:35 INFO  TC001_AccountRegistrationTest:56 - ** Finished TC001_AccountRegistrationTest **
